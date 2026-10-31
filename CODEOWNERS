@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Blaze-555
+/src/backend/database.py      @Blaze-555
+/src/backend/routers/auth.py  @Blaze-555
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Blaze-555
